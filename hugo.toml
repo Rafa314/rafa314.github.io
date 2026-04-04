@@ -1,8 +1,22 @@
 baseURL = "https://rafa314.github.io/"
 languageCode = "pt-br"
-title = "NullRaf // Security Research & Write-ups"
-theme = "hugo-PaperMod"
+title = "Rafael Reis Silva | Security Research"
+theme = "PaperMod"
 
 [params]
-    name = "NullRaf"
-    bio = "Junior InfoSec Analyst | Pentesting Enthusiast | Linux Specialist"
+    name = "Rafael Reis Silva"
+    # A bio curta e direta ajuda no SEO e na primeira impressão
+    bio = "Junior Information Security Analyst | Blue Team & Vulnerability Management"
+
+[params.profileMode]
+    enabled = true
+    title = "Rafael Reis Silva"
+    subtitle = "Análise e Desenvolvimento de Sistemas | Pesquisador de Segurança em IoT e IA"
+    imageUrl = "" # Aqui você pode colocar o link de uma foto profissional futuramente
+
+[[params.socialIcons]]
+    name = "linkedin"
+    url = "https://linkedin.com/in/seu-usuario-aqui" # Lembre de trocar pelo seu link real
+[[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/rafa314"
