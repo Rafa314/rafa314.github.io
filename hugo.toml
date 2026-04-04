@@ -1,0 +1,8 @@
+baseURL = "https://NullRaf.github.io/"
+languageCode = "pt-br"
+title = "NullRaf // Security Research & Write-ups"
+theme = "hugo-PaperMod"
+
+[params]
+    name = "NullRaf"
+    bio = "Junior InfoSec Analyst | Pentesting Enthusiast | Linux Specialist"
