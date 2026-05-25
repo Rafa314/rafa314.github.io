@@ -1,22 +1,72 @@
-baseURL = "https://rafa314.github.io/"
-languageCode = "pt-br"
-title = "Rafael Reis Silva | Security Research"
+title = "Rafael R. Silva | CyberSecurity & OffSec"
 theme = "PaperMod"
 
 [params]
-    name = "Rafael Reis Silva"
-    # A bio curta e direta ajuda no SEO e na primeira impressão
-    bio = "Junior Information Security Analyst | Blue Team & Vulnerability Management"
+env = "production"
+title = "Rafael R. Silva"
+description = "Offensive Security, Vulnerability Research & SecOps"
 
+# Força o tema escuro por padrão
+defaultTheme = "dark"
+disableThemeToggle = false
+
+# Recursos extras nos posts
+showShareButtons = true
+showCodeCopyButtons = true
+ShowReadingTime = true
+
+# ==============================================================================
+# 1. REDES SOCIAIS (Têm de vir antes de sub-tabelas mais profundas)
+# ==============================================================================
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/rafael-dos-reis-silva"
+
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/rafael-dos-reis-silva-849a3b249/"
+
+[[params.socialIcons]]
+name = "email"
+url = "mailto:rei42782@gmail.com"
+
+# ==============================================================================
+# 2. MODO PERFIL (Sub-tabela)
+# ==============================================================================
 [params.profileMode]
-    enabled = true
-    title = "Rafael Reis Silva"
-    subtitle = "Análise e Desenvolvimento de Sistemas | Pesquisador de Segurança em IoT e IA"
-    imageUrl = "" # Aqui você pode colocar o link de uma foto profissional futuramente
+enabled = true
+title = "Rafael dos Reis Silva"
+subtitle = "Junior Information Security Analyst | Red Team & Vulnerability Management"
+imageUrl = "https://avatars.githubusercontent.com/u/123792485?v=4"
+imageTitle = "Rafael R. Silva"
 
-[[params.socialIcons]]
-    name = "linkedin"
-    url = "https://linkedin.com/in/seu-usuario-aqui" # Lembre de trocar pelo seu link real
-[[params.socialIcons]]
-    name = "github"
-    url = "https://github.com/rafa314"
+[[params.profileMode.buttons]]
+name = "📝 Blog & Writeups"
+url = "/posts/"
+
+[[params.profileMode.buttons]]
+name = "🛠️ GitHub Portfolio"
+url = "https://github.com/Rafa314"
+
+[[params.profileMode.buttons]]
+name = "📜 Baixar Currículo"
+url = "/RAFAEL_DOS_REIS_SILVA_Curriculo.pdf"
+
+# ==============================================================================
+# 3. MENUS DE NAVEGAÇÃO
+# ==============================================================================
+[menu]
+[[menu.main]]
+name = "Posts"
+url = "/posts/"
+weight = 10
+
+[[menu.main]]
+name = "Tags"
+url = "/tags/"
+weight = 20
+
+[[menu.main]]
+name = "Sobre"
+url = "/about/"
+weight = 30
