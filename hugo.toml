@@ -1,4 +1,4 @@
-title = "Rafael R. Silva | CyberSecurity & OffSec"
+title = "Rafael R. Silva | CyberSecurity"
 theme = "PaperMod"
 
 [params]
@@ -20,7 +20,7 @@ ShowReadingTime = true
 # ==============================================================================
 [[params.socialIcons]]
 name = "github"
-url = "https://github.com/rafael-dos-reis-silva"
+url = "https://github.com/Rafa314"
 
 [[params.socialIcons]]
 name = "linkedin"
@@ -36,20 +36,20 @@ url = "mailto:rei42782@gmail.com"
 [params.profileMode]
 enabled = true
 title = "Rafael dos Reis Silva"
-subtitle = "Junior Information Security Analyst | Red Team & Vulnerability Management"
-imageUrl = "https://avatars.githubusercontent.com/u/123792485?v=4"
+subtitle = "Information Security Analyst | Red Team & Vulnerability Management"
+#imageUrl = "https://avatars.githubusercontent.com/u/123792485?v=4"
 imageTitle = "Rafael R. Silva"
 
 [[params.profileMode.buttons]]
-name = "📝 Blog & Writeups"
+name = "Blog & Writeups"
 url = "/posts/"
 
 [[params.profileMode.buttons]]
-name = "🛠️ GitHub Portfolio"
+name = "GitHub Portfolio"
 url = "https://github.com/Rafa314"
 
 [[params.profileMode.buttons]]
-name = "📜 Baixar Currículo"
+name = "Baixar Currículo"
 url = "/RAFAEL_DOS_REIS_SILVA_Curriculo.pdf"
 
 # ==============================================================================
