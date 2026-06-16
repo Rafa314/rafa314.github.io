@@ -23,5 +23,17 @@
 &lt;/ul&gt;
 &lt;p&gt;Uma suíte completa de ferramentas nativas e scripts customizados projetada estritamente sob as diretrizes do padrão internacional &lt;strong&gt;PTES (Penetration Testing Execution Standard)&lt;/strong&gt;. O objetivo deste projeto é otimizar as fases de intrusão, eliminando tarefas repetitivas e garantindo precisão na coleta de evidências.&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>Sobre Mim</title>
+      <link>//localhost:1313/about/</link>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/about/</guid>
+      <description>&lt;h1 id=&#34;olá-eu-sou-o-rafael-dos-reis-silva-&#34;&gt;Olá, eu sou o Rafael dos Reis Silva 🇧🇷&lt;/h1&gt;
+&lt;p&gt;Sou &lt;strong&gt;Analista de Segurança da Informação Júnior&lt;/strong&gt;, especializado em &lt;strong&gt;Segurança Ofensiva (Red Team)&lt;/strong&gt;, &lt;strong&gt;Gestão de Vulnerabilidades&lt;/strong&gt; e &lt;strong&gt;SecOps&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Minha filosofia profissional é simples: &lt;strong&gt;segurança real não se faz apenas gerando relatórios automatizados, mas sim compreendendo a fundo a arquitetura dos sistemas para defendê-los ou explorá-los com precisão técnica.&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-pesquisa--comunidade&#34;&gt;🎤 Pesquisa &amp;amp; Comunidade&lt;/h2&gt;
+&lt;p&gt;Acredito fortemente que o conhecimento deve ser testado no limite e compartilhado com a comunidade. Recentemente, palestrei na &lt;strong&gt;BSides SP&lt;/strong&gt;, uma das principais conferências de segurança do país, apresentando minha pesquisa de conclusão de curso (TCC) focada em &lt;strong&gt;Segurança de Inteligência Artificial e IoT&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
