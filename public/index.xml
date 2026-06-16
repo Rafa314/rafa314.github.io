@@ -1,11 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Rafael R. Silva | CyberSecurity &amp; OffSec</title>
-    <link>/</link>
-    <description>Recent content on Rafael R. Silva | CyberSecurity &amp; OffSec</description>
+    <title>Rafael R. Silva | CyberSecurity</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on Rafael R. Silva | CyberSecurity</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Portfólio de Engenharia de Segurança &amp; Projetos</title>
+      <link>//localhost:1313/projects/</link>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/projects/</guid>
+      <description>&lt;p&gt;Bem-vindo à minha vitrine técnica. Aqui estão consolidadas as principais ferramentas, automações e pesquisas de segurança que desenvolvi para laboratórios, desafios de CTF e cenários reais de avaliação de segurança corporativa.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-1-ptes-organized-scripts-automação-ofensiva&#34;&gt;💀 1. PTES Organized Scripts (Automação Ofensiva)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Status:&lt;/strong&gt; &lt;code&gt;Em Desenvolvimento Contínuo&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Linguagens:&lt;/strong&gt; Python, Bash, C, PowerShell&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Link do Repositório:&lt;/strong&gt; &lt;a href=&#34;https://github.com/Rafa314/Scripts-Pentest&#34;&gt;GitHub - Scripts-Pentest&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Uma suíte completa de ferramentas nativas e scripts customizados projetada estritamente sob as diretrizes do padrão internacional &lt;strong&gt;PTES (Penetration Testing Execution Standard)&lt;/strong&gt;. O objetivo deste projeto é otimizar as fases de intrusão, eliminando tarefas repetitivas e garantindo precisão na coleta de evidências.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

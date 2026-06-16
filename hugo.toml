@@ -18,6 +18,7 @@ ShowReadingTime = true
 # ==============================================================================
 # 1. REDES SOCIAIS (Têm de vir antes de sub-tabelas mais profundas)
 # ==============================================================================
+
 [[params.socialIcons]]
 name = "github"
 url = "https://github.com/Rafa314"
@@ -33,33 +34,28 @@ url = "mailto:rei42782@gmail.com"
 # ==============================================================================
 # 2. MODO PERFIL (Sub-tabela)
 # ==============================================================================
+
 [params.profileMode]
 enabled = true
 title = "Rafael dos Reis Silva"
 subtitle = "Information Security Analyst | Red Team & Vulnerability Management"
-#imageUrl = "https://avatars.githubusercontent.com/u/123792485?v=4"
+imageUrl = "https://avatars.githubusercontent.com/u/123792485?v=4" 
 imageTitle = "Rafael R. Silva"
-
-[[params.profileMode.buttons]]
-name = "Blog & Writeups"
-url = "/posts/"
-
-[[params.profileMode.buttons]]
-name = "GitHub Portfolio"
-url = "https://github.com/Rafa314"
-
-[[params.profileMode.buttons]]
-name = "Baixar Currículo"
-url = "/RAFAEL_DOS_REIS_SILVA_Curriculo.pdf"
 
 # ==============================================================================
 # 3. MENUS DE NAVEGAÇÃO
 # ==============================================================================
+
 [menu]
 [[menu.main]]
 name = "Posts"
 url = "/posts/"
 weight = 10
+
+[[menu.main]]
+name = "Projetos"   
+url = "/projects/"
+weight = 15
 
 [[menu.main]]
 name = "Tags"
