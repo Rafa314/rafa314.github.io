@@ -1,31 +1,32 @@
 ---
 title: "Portfólio de Engenharia de Segurança & Projetos"
-date: 2026-06-16
+date: 2026-06-25
 hidemeta: true
 disableShare: true
 ---
 
-Bem-vindo à minha vitrine técnica. Aqui estão consolidadas as principais ferramentas, automações e pesquisas de segurança que desenvolvi para laboratórios, desafios de CTF e cenários reais de avaliação de segurança corporativa.
+Bem vindo! 
+Aqui estão consolidadas as principais ferramentas, automações e pesquisas de segurança que desenvolvi para laboratórios, desafios de CTF e cenários reais de avaliação de segurança corporativa.
 
 ---
 
 ## 💀 1. PTES Organized Scripts (Automação Ofensiva)
 * **Status:** `Em Desenvolvimento Contínuo`
-* **Linguagens:** Python, Bash, C, PowerShell
+* **Linguagens:** Python, Bash Script, C, PowerShell
 * **Link do Repositório:** [GitHub - Scripts-Pentest](https://github.com/Rafa314/Scripts-Pentest)
 
-Uma suíte completa de ferramentas nativas e scripts customizados projetada estritamente sob as diretrizes do padrão internacional **PTES (Penetration Testing Execution Standard)**. O objetivo deste projeto é otimizar as fases de intrusão, eliminando tarefas repetitivas e garantindo precisão na coleta de evidências.
+Uma suíte completa de ferramentas nativas e scripts customizados projetada estritamente sob as diretrizes do padrão internacional **PTES (Penetration Testing Execution Standard)**. O objetivo deste projeto é otimizar as fases de intrusão **(Com o projeto Assistente Pentest)**, eliminando tarefas repetitivas e garantindo precisão na coleta de evidências.
 
-### 🗂️ Arquitetura do Projeto (Baseado no PTES):
+### 🗂️ Arquitetura do Projeto:
 1. **Intelligence Gathering:** Scripts focados em enumeração de banners, varredura de portas e descoberta de ativos ativos em sub-redes.
 2. **Threat Modeling:** Mapeamento de superfícies de ataque baseado nos dados coletados.
 3. **Vulnerability Analysis:** Ferramentas de análise heurística para identificar falhas lógicas e configurações incorretas.
 4. **Exploitation:** Automação de exploits conhecidos e injeções personalizadas.
 5. **Post-Exploitation:** Módulos para persistência segura, coleta de hashes locais e pivoteamento de rede.
 
-### 🛠️ Destaque de Código: `parsing.sh` (Módulo de Reconhecimento)
+### 🛠️ Destaques de Código: `parsing.sh` (Módulo de Reconhecimento)
 Este script em bash demonstra o uso de wget, grep, for, entre outros para otimizar a coleta de links de um site
-para reconhecimento passivo. 
+para reconhecimento passivo coletando informações de indexação do site enumerado. 
 
 ```bash
 #!/bin/bash
@@ -56,3 +57,5 @@ do host $url | grep "has address";
 done
 fi
 echo -e "${green}<==============  FINALIZADO  ===============>"
+
+

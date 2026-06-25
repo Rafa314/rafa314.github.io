@@ -1,38 +1,39 @@
 ---
 title: "Sobre Mim"
-date: 2026-06-16
+date: 2026-06-25
 hidemeta: true
 disableShare: true
 ---
 
-# Olá, eu sou o Rafael dos Reis Silva 🇧🇷
+# Olá, eu sou o Rafael dos Reis Silva! 🇧🇷
 
-Sou **Analista de Segurança da Informação Júnior**, especializado em **Segurança Ofensiva (Red Team)**, **Gestão de Vulnerabilidades** e **SecOps**. 
+Sou **Analista de Segurança da Informação Júnior**, focado em **Segurança Ofensiva (Red Team)**, **Gestão de Vulnerabilidades** e **SecOps**. 
 
-Minha filosofia profissional é simples: **segurança real não se faz apenas gerando relatórios automatizados, mas sim compreendendo a fundo a arquitetura dos sistemas para defendê-los ou explorá-los com precisão técnica.**
+Minha filosofia profissional é simples: **segurança de verdade não se faz apenas rodando scanners de vulnerabilidade prontos gerando relatórios automatizados, mas sim compreendendo a fundo a arquitetura dos sistemas para entendê-los, defendê-los e explorá-los com precisão técnica.**
 
 ---
 
 ## 🎤 Pesquisa & Comunidade
 
-Acredito fortemente que o conhecimento deve ser testado no limite e compartilhado com a comunidade. Recentemente, palestrei na **BSides SP**, uma das principais conferências de segurança do país, apresentando minha pesquisa de conclusão de curso (TCC) focada em **Segurança de Inteligência Artificial e IoT**.
+Acredito fortemente que o conhecimento deve ser testado no limite e compartilhado com a comunidade. Recentemente, palestrei na **BSides SP**, uma das principais conferências de segurança do país, apresentando minha pesquisa de conclusão de curso (TCC) focada em **Segurança de Inteligência Artificial e IoT voltada para ataques Data Poisoning**. 
 
 ![Rafael dos Reis Silva palestrando na BSides SP](/images/imagem_apresentacao.png)
-*Apresentando a anatomia de ataques de IP Spoofing e Data Poisoning (manipulação adversária) em modelos de Visão Computacional (YOLO) integrados a ecossistemas IoT.*
+*Apresentando a anatomia de ataques de IP Spoofing e Data Poisoning em modelos de Visão Computacional (IA - YOLO) integrados a ecossistemas IoT de Smart Cities.*
 
 
 ---
 
-## 🛠️ How I Work (Como Eu Trabalho)
+## 🛠️ Como Eu Trabalho?
 
 Minha atuação profissional é orientada a processos, prazos rigorosos (SLAs) e mitigação estratégica de riscos. Eu divido minha abordagem técnica em três pilares fundamentais:
 
 ### 1. Segurança Ofensiva Baseada em Processos (Pentesting)
-Não executo ferramentas às cegas. Meus testes de intrusão em aplicações web e infraestrutura seguem rigorosamente o **PTES (Penetration Testing Execution Standard)** e as diretrizes do **OWASP Top 10**.
-* **Foco:** Mapeamento minucioso de superfícies de ataque, exploração manual de falhas lógicas, bypass de autenticação e injeções avançadas (SQLi, XSS).
+Não executo ferramentas às cegas. Meus testes de intrusão em aplicações web, IA e infraestrutura seguem rigorosamente padrões internacionalmente conhecidos como o  **PTES (Penetration Testing Execution Standard - base para o meu projeto pessoal no Github)**, **OWASP WSGT** e as diretrizes do **OWASP** como **OWASP Top 10**, **Owasp Top 10 API**, **OWASP Top 10 LLM**.
+* **Foco:** Mapeamento minucioso de superfícies de ataque, exploração manual de falhas lógicas, bypass de autenticação, injeções (SQLi, XSS), 
+verificação de quebra de controle de acesso(BOLA, Broken Access Control).
 
 ### 2. Gestão de Vulnerabilidades Ciclíca
-Segurança defensiva é resiliência contínua. Tenho experiência prática liderando o ciclo completo de vulnerabilidades (Descoberta ➡️ Validação ➡️ Priorização ➡️ Remediação).
+Segurança defensiva é resiliência contínua. Tenho experiência prática liderando o ciclo completo de vulnerabilidades (Identificar ➡️ Avaliar ➡️ Classificar ➡️  Corrigir).
 * **Resultados Práticos:** Mantive SLAs de segurança corporativos operando no nível ideal (no verde) por dois anos consecutivos, reduzindo significativamente a exposição a riscos críticos.
 
 ### 3. Engenharia de Segurança & Automação (DevSecOps)
@@ -41,7 +42,7 @@ A melhor forma de escalar a segurança é automatizando o que for repetitivo. De
 
 ---
 
-## 🧰 Meu Arsenal Técnico (Tech Stack)
+## 🧰 Meu Tech Stack
 
 Para garantir a execução dessas metodologias, opero um ecossistema robusto de ferramentas e tecnologias:
 
@@ -57,9 +58,9 @@ Para garantir a execução dessas metodologias, opero um ecossistema robusto de 
 
 ## 🎯 Objetivos Atuais
 
-Atualmente, estou finalizando minha graduação em **Segurança da Informação pela Fatec**, expandindo minhas certificações na área ofensiva e aprofundando meus estudos em línguas (Fluente em Inglês C1, iniciando no Alemão). 
+Atualmente, estou finalizando minha graduação em **Segurança da Informação pela Fatec**, expandindo meus estudos na área ofensiva e aprofundando meusestudos em línguas (Fluente em Inglês C2, iniciando no Alemão A1). 
 
-Estou sempre em busca de desafios que me permitam aplicar engenharia reversa, análise defensiva avançada e quebrar sistemas de forma ética e controlada para torná-los invulneráveis.
+Estou sempre em busca de desafios que me permitam aplicar análise defensiva avançada e quebrar sistemas de forma ética e controlada para torná-los mais resilientes.
 
 ---
 
