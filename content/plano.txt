@@ -1,0 +1,80 @@
+# =====================================================================
+# PLANO DE ARTIGOS  (baseado nas anotações do caderno)
+#
+# Formato:  categoria | fase (opcional) | título
+#
+# Categorias válidas:
+#   pentest   -> Pentest (metodologia: Info Gathering, Scanning, Enumeração...)
+#   web       -> Pentest Web
+#   redes     -> Redes & TCP/IP
+#   ctf       -> CTF
+#   tryhackme -> TryHackMe
+#   azure     -> Azure
+#   teoria    -> Teoria & Fundamentos
+#
+# Para criar os rascunhos que ainda não existem:   python blog.py plan
+# Para adicionar uma ideia nova, é só acrescentar uma linha aqui.
+# =====================================================================
+
+# --- Redes ---
+redes | | O poder do TCP/IP: filtros básicos de Wireshark e tcpdump
+redes | | Swiss Army Knife: como usar /dev/tcp e o telnet
+
+# --- Pentest Web ---
+web | | SQL Injection passo a passo (Lab PortSwigger)
+web | | O que é uma REST API?
+web | | Overview de API Testing
+
+# --- TryHackMe ---
+tryhackme | | Google Dorking
+tryhackme | | Fundamentos de Windows
+
+# --- Teoria ---
+teoria | | O que são Security Headers?
+teoria | | PHP vulnerável a XSS
+teoria | | Banco de dados básico
+teoria | | Comandos básicos de Linux
+teoria | | O que é o RDP?
+
+# --- Azure ---
+azure | | O que é NSG (Network Security Group)?
+azure | | O que é o Entra ID?
+azure | | O que é o SQL Server Audit?
+azure | | O que é o Blob Storage?
+
+# --- CTF ---
+ctf | | Vulnversity (TryHackMe)
+ctf | | Gandalf: Prompt Injection
+
+# --- Pentest: Info Gathering ---
+pentest | Info Gathering | O que são metadados?
+pentest | Info Gathering | Tutorial curl
+
+# --- Pentest: Scanning ---
+pentest | Scanning | Firewall: overview
+pentest | Scanning | Descobrindo hosts com ARP
+pentest | Scanning | Port scanning com Nmap + Hping3
+pentest | Scanning | Bypass de Firewall
+pentest | Scanning | Bypass de IDS
+pentest | Scanning | Bypass de IPS
+pentest | Scanning | Evadindo defesas
+pentest | Scanning | Tutorial Scapy
+
+# --- Pentest: Enumeração ---
+pentest | Enumeração | Enumeração de HTTP/HTTPS
+pentest | Enumeração | Enumeração de WAF
+pentest | Enumeração | Enumeração de FTP
+pentest | Enumeração | Enumeração de NetBIOS/SMB
+pentest | Enumeração | Enumeração de RPC
+pentest | Enumeração | Enumeração de POP3
+pentest | Enumeração | Enumeração de SMTP
+pentest | Enumeração | Enumeração de Telnet
+pentest | Enumeração | Enumeração de SSH
+pentest | Enumeração | Enumeração de NFS
+pentest | Enumeração | Enumeração de SNMP
+pentest | Enumeração | Enumeração de MySQL
+
+# --- Pentest: Análise de Vulnerabilidades ---
+pentest | Análise de Vulnerabilidades | Tutorial Nessus
+pentest | Análise de Vulnerabilidades | Metasploit
+pentest | Análise de Vulnerabilidades | Hash: o que é um hash?
